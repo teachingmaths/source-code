@@ -1,0 +1,6 @@
+baseURL = "https://teachingmaths.github.io/"
+languageCode = "en-us"
+title = "Change Site Title in config.toml"
+theme = "minos"
+publishDir = "/home/apurv/Desktop/Teaching Maths Blog/teachingmaths.github.io"
+
